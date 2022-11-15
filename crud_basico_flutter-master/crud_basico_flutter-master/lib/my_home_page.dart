@@ -12,10 +12,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePage extends State<MyHomePage> {
   List<Client> clients = [
-    Client(name: 'Will', surname: 'Mora', phone: '302 454 25 93'),
-    Client(name: 'Sam', surname: 'Perez', phone: '322 412 34 68'),
-    Client(name: 'Marlon', surname: 'Gutierrez', phone: '301 441 36 98'),
-    Client(name: 'Jhon', surname: 'Segura', phone: '310 789 90 62')
+    
   ];
 
   @override
